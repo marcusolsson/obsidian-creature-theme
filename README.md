@@ -9,6 +9,7 @@
     <img src="https://img.shields.io/badge/donate-paypal-blue"></a>
   </div>
 </div>
+<br />
 
 ![Screenshot](screenshot.png)
 
