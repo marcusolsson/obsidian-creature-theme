@@ -1,9 +1,9 @@
-<center>
+<div style="text-align: center">
 <img src="https://raw.githubusercontent.com/marcusolsson/obsidian-creature-theme/main/logo.svg"  height="128" />
 <h1>Creature Obsidian Theme</h1>
 <p>Creature is a minimal and dark-only theme for night dwellers.</p>
 <a href="https://www.paypal.com/donate/?hosted_button_id=NT93NXBDFWH6J"><img src="https://img.shields.io/badge/donate-paypal-blue"></a>
-</center>
+</div>
 
 ![Screenshot](screenshot.png)
 
