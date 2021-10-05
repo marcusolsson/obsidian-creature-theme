@@ -1,5 +1,7 @@
 # Creature Obsidian Theme
 
+[![Donate](https://img.shields.io/badge/donate-paypal-blue)](https://www.paypal.com/donate/?hosted_button_id=NT93NXBDFWH6J)
+
 Creature is a minimal and dark-only theme for night dwellers.
 
 ![Screenshot](screenshot.png)
