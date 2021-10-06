@@ -5,8 +5,8 @@
     Creature Obsidian Theme
   </h1>
   <h4 align="center">Creature is a minimal and dark-only theme for night dwellers.</h4>
-  <div align="center"><a href="https://www.paypal.com/donate/?hosted_button_id=NT93NXBDFWH6J">
-    <img src="https://img.shields.io/badge/donate-paypal-blue"></a>
+  <div align="center"><a href="https://www.buymeacoffee.com/marcusolsson">
+    <img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee"></a>
   </div>
 </div>
 <br />
