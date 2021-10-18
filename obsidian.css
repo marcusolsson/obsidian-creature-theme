@@ -830,7 +830,6 @@ input.task-list-item-checkbox:checked {
 }
 
 .workspace-leaf-resize-handle {
-  height: 100% !important;
   background: transparent;
 }
 .workspace-leaf-resize-handle:hover {
